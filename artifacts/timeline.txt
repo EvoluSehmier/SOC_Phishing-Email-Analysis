@@ -1,0 +1,4 @@
+Step 1: Email received
+Step 2: Header analyzed
+Step 3: Links scanned
+Step 4: Determination made
