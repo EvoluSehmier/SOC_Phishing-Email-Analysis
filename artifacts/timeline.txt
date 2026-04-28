@@ -1,4 +1,7 @@
-Step 1: Email received
-Step 2: Header analyzed
-Step 3: Links scanned
-Step 4: Determination made
+TIMELINE
+
+10:00 - Email received
+10:05 - Initial review
+10:10 - Header analysis
+10:20 - URL scan
+10:30 - Conclusion reached
