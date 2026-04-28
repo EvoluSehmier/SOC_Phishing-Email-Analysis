@@ -1,0 +1,10 @@
+IOC REPORT
+
+Type: Domain
+Value: fake-login-alert.com
+
+Type: IP Address
+Value: 192.168.1.1
+
+Type: URL
+Value: http://fake-login-alert.com/reset

@@ -1,3 +1,0 @@
-Suspicious Domain: fake-login-alert.com
-IP Address: 192.168.1.1
-Malicious Link: http://fake-login-alert.com/reset
